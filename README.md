@@ -1,7 +1,14 @@
 # Auto-Generate Python Comments or Documentation using Docly
+
 ## To view the video
-* [Click here](https://youtu.be/75jaI3QXSjA)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=75jaI3QXSjA" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/75jaI3QXSjA?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Zero Shot Classification with HuggingFace Pipeline](http://img.youtube.com/vi/75jaI3QXSjA/0.jpg)](http://www.youtube.com/watch?v=75jaI3QXSjA)
 
